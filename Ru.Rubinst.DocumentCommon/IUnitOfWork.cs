@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
-namespace Ru.Rubinst.DocumentCommon
+namespace Ru.Rubinst.Common
 {
     public interface IUnitOfWork: IDisposable
     {

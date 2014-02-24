@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace Ru.Rubinst.DocumentCommon
+namespace Ru.Rubinst.Common
 {
     public interface IRepository
     {

@@ -4,7 +4,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace Ru.Rubinst.DocumentCommon
+namespace Ru.Rubinst.Common
 {
     public class Repository<TEntity>: IRepository<TEntity> where TEntity : class 
     {

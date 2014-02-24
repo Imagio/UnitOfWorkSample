@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity;
-using System.Linq;
-using System.Text;
 
-namespace Ru.Rubinst.DocumentCommon
+namespace Ru.Rubinst.Common
 {
     public class UnitOfWork<TDbContext>: IUnitOfWork where TDbContext : DbContext
     {

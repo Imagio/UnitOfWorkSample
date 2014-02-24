@@ -7,8 +7,8 @@
     <ProjectGuid>{818BA865-8F2F-47FA-A070-A6C2EA102EFF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ru.Rubinst.DocumentCommon</RootNamespace>
-    <AssemblyName>Ru.Rubinst.DocumentCommon</AssemblyName>
+    <RootNamespace>Ru.Rubinst.Common</RootNamespace>
+    <AssemblyName>Ru.Rubinst.Common</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
